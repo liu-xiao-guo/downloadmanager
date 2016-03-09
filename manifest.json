@@ -1,0 +1,17 @@
+{
+    "name": "downloadmanager.liu-xiao-guo",
+    "description": "description of downloadmanager",
+    "architecture": "all",
+    "title": "downloadmanager",
+    "hooks": {
+        "downloadmanger": {
+            "apparmor": "downloadmanger.apparmor",
+            "desktop":  "downloadmanger.desktop"
+        }
+    },
+    "version": "0.1",
+    "maintainer": "XiaoGuo, Liu <xiaoguo.liu@canonical.com>",
+    "framework" : "ubuntu-sdk-14.10"
+}
+
+

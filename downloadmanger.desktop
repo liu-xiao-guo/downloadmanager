@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=downloadmanger
+Exec=qmlscene $@ Main.qml
+Icon=downloadmanager.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
+
